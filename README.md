@@ -1,5 +1,3 @@
-# InvernessPark.Android.Utilities.NMEA
-Simple NMEA-0183 parser in Java for Android
 # That's Right: Another NMEA-0183 Parser Library (Android/Java)
 
 This is another NMEA-0183 parser I use in my Android/Java projects.  You feed bytes into the parser and when a complete NMEA sentence is successfully read, application-level handlers are invoked.
