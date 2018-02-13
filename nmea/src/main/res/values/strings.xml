@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NMEA</string>
+    <string name="gga">Global Positioning System Fix Data</string>
+    <string name="gsa">Satellite status</string>
+    <string name="gst">GPS Pseudorange Noise Statistics</string>
+    <string name="gsv">Satellites in view</string>
+    <string name="hdt">NMEA heading log</string>
+    <string name="rmc">Recommended Minimum data for gps</string>
+    <string name="vtg">Track made good and ground speed</string>
+</resources>
