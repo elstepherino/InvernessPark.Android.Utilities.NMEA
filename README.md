@@ -1,4 +1,4 @@
-# That's Right: Another NMEA-0183 Parser Library (Android/Java)
+# NMEA-0183 Parser Library in Java for Android
 
 This is a basic NMEA-0183 parser that processes bytes fed into its API. When a complete NMEA sentence is successfully read, application-level handlers are invoked.
 
