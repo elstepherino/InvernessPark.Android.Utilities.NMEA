@@ -1,6 +1,6 @@
 # That's Right: Another NMEA-0183 Parser Library (Android/Java)
 
-This is another NMEA-0183 parser I use in my Android/Java projects.  You feed bytes into the parser and when a complete NMEA sentence is successfully read, application-level handlers are invoked.
+This is a basic NMEA-0183 parser that processes bytes fed into its API. When a complete NMEA sentence is successfully read, application-level handlers are invoked.
 
 There are many implementations of NMEA-0183 parsers out there.  This is not about reinventing the wheel, but as an exercise on my part to port NMEA parsing code that I wrote over 12 years ago in C++.  The motivation to put this up on Github came after I was invited to apply for work with the condition that I pass a coding tests.  Having been on the hiring end of the coding interview, I can say that coding tests are utterly useless when compared to actual code samples on Github.  So here I am with samples that - at the very least - depicts my coding style.
 
